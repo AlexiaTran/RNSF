@@ -11,13 +11,19 @@ https://cv.gluon.ai/build/examples_detection/train_yolo_v3.html
 https://github.com/ultralytics/yolov3
 
 - installation d'un environnement virtuel avec pip : 
+- 
   $sudo apt-get install python3-venv
+  
   $python3 -m venv env
+  
   $source env/bin/activate
   
 - installation des paquets : 
+- 
   $python -m pip install -U pip
+  
   $python -m pip install -U setuptools
+  
   $python -m pip install -r requirements.txt //(trouvé dans le github de ultralytics) 
 
 # Faster R-CNN 
