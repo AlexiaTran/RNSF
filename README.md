@@ -34,4 +34,6 @@ Tutoriel pour entrainer le réseau de neurones :
 
 https://github.com/rbgirshick/py-faster-rcnn
 
+https://github.com/you359/Keras-FasterRCNN
+
 *Je sais que le travail fourni n'est pas à la hauteur de ce qui est demandé, j'en suis profondément désolée. Je ne souhaitais pas ne rien rendre mais je n'ai vraiment pas réussi à trouver la motivation et je m'en excuse.*
