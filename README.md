@@ -30,10 +30,16 @@ https://github.com/ultralytics/yolov3
   $python -m pip install -r requirements.txt //(trouvé dans le github de ultralytics) 
 
 # Faster R-CNN 
-Tutoriel pour entrainer le réseau de neurones : 
+Tutoriel pour entrainer le réseau de neurones selon l'auteur du papier lu : 
 
 https://github.com/rbgirshick/py-faster-rcnn
 
+Tutoriel suivi : 
+
 https://github.com/you359/Keras-FasterRCNN
+
+Il faut également être dans un enironnement virtuel pour exécuter le code, il faut donc resuivre les mêmes étapes d'installation que pour YOLOV3.
+
+
 
 *Je sais que le travail fourni n'est pas à la hauteur de ce qui est demandé, j'en suis profondément désolée. Je ne souhaitais pas ne rien rendre mais je n'ai vraiment pas réussi à trouver la motivation et je m'en excuse.*
