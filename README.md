@@ -13,4 +13,4 @@ https://github.com/ultralytics/yolov3
 
 
 
-*Je sais que le travail fourni n'est pas à la hauteur de ce qui est demandé, j'en suis profondément désolée. Je n'ai vraiment pas réussi à trouver la motivation et je m'en excuse.*
+*Je sais que le travail fourni n'est pas à la hauteur de ce qui est demandé, j'en suis profondément désolée. Je ne souhaitais pas ne rien rendre mais je n'ai vraiment pas réussi à trouver la motivation et je m'en excuse.*
